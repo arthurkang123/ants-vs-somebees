@@ -3,7 +3,7 @@
 - Project for CS course: CS61A (The Structure and Interpretation of Computer Programs)
 - Parody of the game Plants vs Zombies
 
-Link: https://inst.eecs.berkeley.edu/~cs61a/sp17/proj/hog/
+Link: https://inst.eecs.berkeley.edu/~cs61a/sp17/proj/ants/
 
 > Main Files
 > - ants.py: The game logic of Ants Vs. SomeBees
